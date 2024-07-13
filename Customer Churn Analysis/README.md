@@ -14,7 +14,7 @@
 - **pandas**
 - **seaborn**
 - **matplotlib.pyplot**
-- **plotly
+- **plotly**
 - **numpy**
 - scipy.**stats**
 
